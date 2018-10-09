@@ -2,15 +2,15 @@ Tmux Configuration
 =====================
 Tmux configuration, that supercharges your [tmux](https://tmux.github.io/) and builds cozy and cool terminal environment.
 
-Contains minor updates by [Rafal Lukawiecki](https://github.com/rafallukawiecki) to the original created by [Alexey Samoshkin](https://github.com/samoshkin):
+Contains minor updates by me:
+
+- on top of the changes [Rafal Lukawiecki](https://github.com/rafallukawiecki):
  - Uses Solarized Dark palette colour names and choices.
  - Prefers accent foreground colours to accented backgrounds to reduce contrasts jumps and permanently-on bright screen elements.
- - F8 instead of F12 for 'Off' mode as F12 is bound to 'Dashboard' on some Apple MBPs (with TouchBar).
- - European date format "Day Month" instead of "Month Day".
- - duckduckgo.com instead of google.com as default search engine.
  - Numeric IP (8.8.8.8) instead of FQDN as ping target for tmux-online-status.
  - Original tmux wheel scrol speed of 5 lines, instead of 2.
  - Binds C-a a for 'jump-to-line-start' command line editing.
+- on top of the original created by [Alexey Samoshkin](https://github.com/samoshkin):
 
 The remainder of the readme is from the upstream version of the config.
 
